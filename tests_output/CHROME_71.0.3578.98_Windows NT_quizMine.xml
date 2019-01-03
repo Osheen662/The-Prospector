@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="quizMine"
+    errors="0" failures="1" hostname="" id="" package="quizMine" skipped="0"
+    tests="1" time="10.06" timestamp="Thu, 20 Dec 2018 20:10:08 GMT">
+  
+    <testcase name="Signed In" classname="quizMine" time="10.06" assertions="1">  <failure message="Found the site ">    at Object.beforeEach (C:\Users\Bracken\Desktop\DevMtn\yeOldProspector\tests\quizMine.js:8:10)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

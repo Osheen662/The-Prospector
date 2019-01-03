@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="quizMine"
+    errors="1" failures="0" hostname="" id="" package="quizMine" skipped="0"
+    tests="1" time="2.091" timestamp="">
+  
+    <testcase name="Signed In" classname="quizMine" time="2.091" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

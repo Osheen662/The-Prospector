@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="12"
+            failures="0"
+            tests="4">
+
+  <testsuite name="quizMine"
+    errors="12" failures="0" hostname="" id="" package="quizMine" skipped="0"
+    tests="4" time="34.15" timestamp="">
+  
+    <testcase name="Signed In" classname="quizMine" time="4.958" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Daily Set1 Instant Search" classname="quizMine" time="5.224" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Daily Set2 Quiz" classname="quizMine" time="16.47" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Daily Set3 Daily Poll" classname="quizMine" time="7.505" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
